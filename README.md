@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **aqua.marketing**
 
-- 🌱 I’m currently learning **Ollama, n8n, Flutter**
+- 🌱 I’m currently learning **Ollama, n8n, TensorFlow, Flutter**
 
 - 🤝 I’m looking for help with [DockerDevEnv](https://github.com/DockerDevEnv/UbuntuSetup24)
 
